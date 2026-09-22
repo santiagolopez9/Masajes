@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi Masoterapia | Citas a Domicilio Profesionales",
+  "description": "Plataforma profesional de masoterapia y fisioterapia a domicilio con gestión de citas seguras, código de ética estricto y verificación previa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
